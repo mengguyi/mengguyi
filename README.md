@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 正在学习Python和C++
 <!--
 **mgy-qyqf/mgy-qyqf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

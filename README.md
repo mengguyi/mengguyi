@@ -15,7 +15,7 @@
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mgy-qyqf/1a50976bca47664f7435a908737d6078)
 
-![mgy-qyqf's wakatime stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![mgy-qyqf's wakatime stats](https://github-readme-stats.vercel.app/api?username=mgy-qyqf)
 
 ### 我的 Github 分类目录
 

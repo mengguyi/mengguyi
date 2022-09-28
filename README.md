@@ -22,7 +22,6 @@
 不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。
 - [x] ⛱ 个人博客 [mgy-qyqf.github.io](https://github.com/mgy-qyqf/mgy-qyqf.github.io)
 - [x] 📋 HelloWord程序实现 [HelloWord](https://github.com/mgy-qyqf/HelloWord)
-🎮 游戏周边
    - [x] 🎮 游戏周边
 pygame-alien_invasion
 

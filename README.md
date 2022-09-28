@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=fff)
 ![C%20Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&labelColor=239120&logoColor=fff)
 
-📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mgy-qyqf/1a50976bca47664f7435a908737d6078)
+📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
 
 ![mgy-qyqf's wakatime stats](https://github-readme-stats.vercel.app/api?username=mgy-qyqf&layout=compact&theme=material-palenight)
 

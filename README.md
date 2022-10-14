@@ -17,6 +17,10 @@
 
 ![mgy-qyqf's wakatime stats](https://github-readme-stats.vercel.app/api?username=mengguyi&layout=compact&theme=material-palenight)
 
+## 从2022年10月14日开始的访客数量
+
+![](https://count.getloli.com/get/@mengguyi.github.readme)
+
 ### 我的 Github 分类目录
 
 不包括过于远古的和私有的仓库，打勾的是**正在维护**（包括开发完正在维护和正在开发中）的内容，没打勾的是已经**弃坑**（包括已经完成但不再维护和半途而废）的内容。

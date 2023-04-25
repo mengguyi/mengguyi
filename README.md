@@ -6,6 +6,7 @@
 
 [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/mgy-qyqf/pubkey)
 [![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?logo=Keybase&labelColor=33A0FF&logoColor=fff)](https://keybase.io/mengguyimgyqqcom)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&labelColor=2CA5E0&logoColor=fff)](https://t.me/mengguyi_diary)
 [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/mgy-qyqf/6447e53103c1e796f25c10a88caf73c7)
 
 [comment]: <> (代码使用)
@@ -42,10 +43,6 @@ git push
 
 [comment]: <> (Twitter)
 [comment]: <> (https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&labelColor=1DA1F2&logoColor=fff)
-[comment]: <> (null)
-
-[comment]: <> (Telegram)
-[comment]: <> (https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&labelColor=2CA5E0&logoColor=fff)
 [comment]: <> (null)
 
 [comment]: <> (微博)

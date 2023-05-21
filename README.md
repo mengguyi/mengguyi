@@ -16,7 +16,7 @@
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
 
-![mgy-qyqf's wakatime stats](https://github-readme-stats.vercel.app/api?username=mengguyi&layout=compact&theme=material-palenight)
+![mengguyi's wakatime stats](https://github-readme-stats.vercel.app/api?username=mengguyi&layout=compact&theme=material-palenight)
 
 ## 从2022年10月14日开始的访客数量
 

@@ -11,6 +11,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=fff)
 ![C%20Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&labelColor=239120&logoColor=fff)
+![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 

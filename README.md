@@ -7,8 +7,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&labelColor=2CA5E0&logoColor=fff)](https://t.me/mengguyi_diary)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&labelColor=1DA1F2&logoColor=fff)](https://twitter.com/mengguyi)
 [![微博](https://img.shields.io/badge/-微博-E6162D?logo=Sina%20Weibo&labelColor=E6162D&logoColor=fff)](https://weibo.com/u/7706678689)
-[![BiliBili](https://img.shields.io/badge/-BiliBili-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/474814653)
-[![Zhihu](https://img.shields.io/badge/-Zhihu-0e88eB?style=flat-square&logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/mengguyi)
+[![BiliBili](https://img.shields.io/badge/-BiliBili-00a1d6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/474814653)
+[![Zhihu](https://img.shields.io/badge/-Zhihu-0e88eB?logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/mengguyi)
 [![留言](https://img.shields.io/badge/-留言-7719AA?logo=Microsoft%20OneNote&labelColor=7719AA&logoColor=fff)](https://gist.github.com/mgy-qyqf/6447e53103c1e796f25c10a88caf73c7)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=fff)

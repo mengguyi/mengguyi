@@ -39,7 +39,7 @@ pygame-alien_invasion
 ```
 git rm -r *
 git commit -m "Fixed all bugs"
-git push
+git push -f
 ```
 
 [comment]: <> (相册)

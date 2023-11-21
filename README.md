@@ -42,7 +42,7 @@ git commit -m "Fixed all bugs"
 git push -f
 ```
 
-![友链](https://blog.mengguyi.com/articles/friends.html)
+[友链](https://blog.mengguyi.com/articles/friends.html)
 
 [comment]: <> (相册)
 [comment]: <> (https://img.shields.io/badge/-相册-E4405F?logo=Instagram&labelColor=E4405F&logoColor=fff)

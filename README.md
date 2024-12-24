@@ -1,6 +1,6 @@
 ## 你好，这里是 🌸mengguyi🌈 ！
 
-![mgy-qyqf's github stats](https://github-readme-stats-reverse.mengguyi.com/api?username=mengguyi&show_icons=true&include_all_commits=true&theme=material-palenight) ![mgy-qyqf's most used languages](https://github-readme-stats-reverse.mengguyi.com/api/top-langs/?username=mengguyi&layout=compact&theme=material-palenight)
+![mengguyi's github stats](https://github-readme-stats-reverse.mengguyi.com/api?username=mengguyi&show_icons=true&include_all_commits=true&theme=material-palenight) ![mgy-qyqf's most used languages](https://github-readme-stats-reverse.mengguyi.com/api/top-langs/?username=mengguyi&layout=compact&theme=material-palenight)
 
 [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/mengguyi/pubkey)
 [![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?logo=Keybase&labelColor=33A0FF&logoColor=fff)](https://keybase.io/mengguyimgyqqcom)
@@ -27,6 +27,10 @@
 ## 从2022年10月14日开始的访客数量
 
 ![](https://count.getloli.com/get/@mengguyi.github.readme)
+
+[服务运行状态](https://mengguyistatus.com/)
+
+
 
 ### 我的 Github 分类目录
 

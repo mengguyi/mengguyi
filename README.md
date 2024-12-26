@@ -1,6 +1,6 @@
 ## 你好，这里是 🌸mengguyi🌈 ！
 
-![mengguyi's github stats](https://github-readme-stats-reverse.mengguyi.com/api?username=mengguyi&show_icons=true&include_all_commits=true&theme=material-palenight) ![mgy-qyqf's most used languages](https://github-readme-stats-reverse.mengguyi.com/api/top-langs/?username=mengguyi&layout=compact&theme=material-palenight)
+![mengguyi's github stats](https://github-readme-stats.mengguyi.com/api?username=mengguyi&show_icons=true&theme=material-palenight) ![mengguyi's most used languages](https://github-readme-stats.mengguyi.com/api/top-langs?username=mengguyi&layout=compact&theme=material-palenight)
 
 [![PGP Key](https://img.shields.io/badge/-PGPkey-0093DD?logo=GNU%20Privacy%20Guard&labelColor=0093DD&logoColor=fff)](https://github.com/mengguyi/pubkey)
 [![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?logo=Keybase&labelColor=33A0FF&logoColor=fff)](https://keybase.io/mengguyimgyqqcom)
@@ -22,7 +22,7 @@
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
 
-![mengguyi's wakatime stats](https://github-readme-stats-reverse.mengguyi.com/api?username=mengguyi&layout=compact&theme=material-palenight)
+![mengguyi's wakatime stats](https://github-readme-stats.mengguyi.com/api?username=mengguyi&layout=compact&theme=material-palenight)
 
 ## 从2022年10月14日开始的访客数量
 

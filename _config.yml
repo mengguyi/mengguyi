@@ -1,6 +1,6 @@
 defaults:
-  - 
+  -
     scope:
-      path: "README.md"
+      path: ""
     values:
-      permalink: "index.html"
+      layout: "default"

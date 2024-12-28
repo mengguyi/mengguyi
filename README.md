@@ -23,11 +23,15 @@
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
 
+📜 **古一服务状态** | [服务运行状态](https://mengguyistatus.com/)
+
+📜 **古一的友链** | [友链](https://blog.mengguyi.com/articles/friends.html)
+
+📜 **古一的博客** | [Blog](https://blog.mengguyi.com/articles/friends.html)
+
 ## 从2022年10月14日开始的访客数量
 
 ![](https://count.getloli.com/get/@mengguyi.github.readme)
-
-[服务运行状态](https://mengguyistatus.com/)
 
 ### 我的 Github 分类目录
 
@@ -42,9 +46,6 @@ git rm -r *
 git commit -m "Fixed all bugs"
 git push -f
 ```
-
-[友链](https://blog.mengguyi.com/articles/friends.html)
-
 [comment]: <> (相册)
 [comment]: <> (https://img.shields.io/badge/-相册-E4405F?logo=Instagram&labelColor=E4405F&logoColor=fff)
 [comment]: <> (null)

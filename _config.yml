@@ -1,2 +1,5 @@
+email: i@mengguyi.com
+theme: minima
 plugins:
+  - jekyll-feed
   - jekyll-include-cache

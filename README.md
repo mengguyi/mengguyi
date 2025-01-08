@@ -78,5 +78,3 @@ git push -f
 
 [comment]: <> (VB)
 [comment]: <> (https://img.shields.io/badge/-VB-31A8FF?style=flat-square)
-
-<a href="https://icp.gov.moe/?keyword=20250009" target="_blank">萌ICP备20250009号</a>

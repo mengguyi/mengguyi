@@ -3,7 +3,7 @@ baseurl: "/"
 url: "https://mengguyi.com"
 twitter_username: mengguyi
 github_username:  mengguyi
-theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache

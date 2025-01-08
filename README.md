@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
 
@@ -29,7 +30,7 @@
 
 🥰 [友链](https://blog.mengguyi.com/articles/friends.html)
 
-🛂 [Blog](https://blog.mengguyi.com/articles/friends.html)
+🛂 [Blog](https://blog.mengguyi.com/)
 
 ## 从2022年10月14日开始的访客数量
 
@@ -59,9 +60,6 @@ git push -f
 [comment]: <> (Donate 捐助)
 [comment]: <> (https://img.shields.io/badge/-Donate%20捐助-F7931A?logo=Bitcoin&labelColor=F7931A&logoColor=fff)
 [comment]: <> (null)
-
-[comment]: <> (PHP)
-[comment]: <> (https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
 
 [comment]: <> (Objective-C)
 [comment]: <> (https://img.shields.io/badge/-ObjectiveC-888?style=flat-square)

@@ -22,13 +22,9 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
 
-📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078)
+📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078) | 🚀 [服务运行状态](https://mengguyistatus.com/)
 
-🚀 [服务运行状态](https://mengguyistatus.com/)
-
-🥰 [友链](https://blog.mengguyi.com/articles/friends.html)
-
-🛂 [Blog](https://blog.mengguyi.com/)
+🥰 [友链](https://blog.mengguyi.com/articles/friends.html) | 🛂 [Blog](https://blog.mengguyi.com/)
 
 ## 从2022年10月14日开始的访客数量
 

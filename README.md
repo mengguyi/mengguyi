@@ -21,6 +21,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat-square&logo=php&labelColor=777bb3&logoColor=fff)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
 
 📜 **公告栏** | 💬 [关于私聊无法得到回复的说明](https://gist.github.com/mengguyi/1a50976bca47664f7435a908737d6078) | 🚀 [服务运行状态](https://mengguyistatus.com/)
 
@@ -63,9 +64,6 @@ git push -f
 
 [comment]: <> (Flutter)
 [comment]: <> (https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&labelColor=02569B&logoColor=fff)
-
-[comment]: <> (Ruby)
-[comment]: <> (https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
 
 [comment]: <> (WTCD)
 [comment]: <> (https://img.shields.io/badge/-WTCD-667881?style=flat-square)
